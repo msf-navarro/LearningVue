@@ -1,11 +1,13 @@
-<script setup></script>
+<script setup>
+
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <h1>Third page</h1>
+  <h3>It's all blank for now...</h3>
+  <p>👉 Check out app2 (second - CompositionAPI) and app3 (first - OptionsAPI).</p>
 </template>
 
-<style scoped></style>
+<style scoped>
+
+</style>
